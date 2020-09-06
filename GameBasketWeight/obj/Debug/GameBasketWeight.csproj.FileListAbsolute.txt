@@ -1,0 +1,10 @@
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\bin\Debug\GameBasketWeight.exe.config
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\bin\Debug\GameBasketWeight.exe
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\bin\Debug\GameBasketWeight.pdb
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\bin\Debug\DAL.dll
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\bin\Debug\DAL.pdb
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\obj\Debug\GameBasketWeight.csprojAssemblyReference.cache
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\obj\Debug\GameBasketWeight.csproj.CoreCompileInputs.cache
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\obj\Debug\GameBasketWeight.csproj.CopyComplete
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\obj\Debug\GameBasketWeight.exe
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework10\GameBasketWeight\GameBasketWeight\obj\Debug\GameBasketWeight.pdb
